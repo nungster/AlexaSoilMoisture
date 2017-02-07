@@ -1,3 +1,4 @@
+#include <stdint.h>
 #ifndef DHT_H
 #define DHT_H
 
